@@ -1,8 +1,8 @@
 # 👩🏻‍💻 João Padilha
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
-Me chamo João Victor Padilha, tenho 22. Concluí o ensino médio no IFRO, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação no campos da UNEMAT.
+Me chamo João Victor Padilha, tenho 22. Concluí o ensino médio no IFRO, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação no campos da UNEMAT. Trilhando o caminho do desenvolvimento fullStack 
 
 
 ---
@@ -100,7 +100,7 @@ Me chamo João Victor Padilha, tenho 22. Concluí o ensino médio no IFRO, com o
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoJoaoVictor&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
