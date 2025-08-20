@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Victor Padilha, tenho 22. Concluí o ensino médio no IFRO, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação no campos da UNEMAT. Trilhando o caminho do desenvolvimento fullStack 
+Me chamo João Victor Padilha, tenho 22. Concluí o ensino médio no IFRO, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação no campos da UNEMAT.
 
 
 ---
