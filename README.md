@@ -1,6 +1,6 @@
 # 👩🏻‍💻 João Padilha
 
-**`Desenvolvedor Front-And`**
+**`Desenvolvedor Front-End`**
 
 Me chamo João Victor Padilha, tenho 22. Concluí o ensino médio no IFRO, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação no campos da UNEMAT.
 
