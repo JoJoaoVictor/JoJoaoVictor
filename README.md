@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo João Victor Padilha, tenho 22. Concluí o ensino médio no IFRO, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação no campos da UNEMAT.
+Me chamo João Victor Padilha, tenho 22. Concluí o ensino médio no IFRO, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação no campos da UNEMAT, Sempre soube que o caminho do aprendizado é dificil e demorado mas meu foco é me torna um desenvolvedor eficiente e de exemplo, visando em aprender continuamente e aplicar meus conhecimentos em contextos que tragam soluções inovadoras e eficientes..
 
 
 ---
