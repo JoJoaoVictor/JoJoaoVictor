@@ -86,7 +86,6 @@ Me chamo João Victor Padilha, tenho 22. Concluí o ensino médio no IFRO, com o
 <br/>
 
 ### 📊 Estatísticas
-
 <p>
   <img 
     align="left" 
