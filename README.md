@@ -86,11 +86,5 @@ Me chamo João Victor Padilha, tenho 22. Concluí o ensino médio no IFRO, com o
 <br/>
 <br/>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoJoaoVictor&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
 </p>
