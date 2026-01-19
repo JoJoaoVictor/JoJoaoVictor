@@ -2,7 +2,9 @@
 
 **`Desenvolvedor full-stack`**
 
-Me chamo João Victor Padilha, tenho 22. Concluí o ensino médio no IFRO, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação no campos da UNEMAT, Sempre soube que o caminho do aprendizado é dificil e demorado mas meu foco é me torna um desenvolvedor eficiente e de exemplo, visando em aprender continuamente e aplicar meus conhecimentos em contextos que tragam soluções inovadoras e eficientes..
+Sou graduando em Ciência da Computação e tenho grande satisfação em resolver problemas com o auxílio da tecnologia. Tenho boa base em lógica e algoritmos, facilidade de aprendizado e estou sempre disposto a trabalhar com novas linguagens, ferramentas e desafios que contribuam para meu desenvolvimento profissional.
+
+Tenho experiência em desenvolvimento de sistemas web e aplicações voltadas para soluções educacionais e de gestão, atuando em diferentes etapas do processo, como levantamento de requisitos, modelagem de banco de dados, implementação de funcionalidades e integração de módulos.
 
 
 ---
