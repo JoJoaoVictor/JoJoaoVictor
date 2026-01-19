@@ -6,6 +6,8 @@ Sou graduando em Ciência da Computação e tenho grande satisfação em resolve
 
 Tenho experiência em desenvolvimento de sistemas web e aplicações voltadas para soluções educacionais e de gestão, atuando em diferentes etapas do processo, como levantamento de requisitos, modelagem de banco de dados, implementação de funcionalidades e integração de módulos.
 
+Minha vivência prática inclui o uso de linguagens e frameworks como Python, C, C#, SQL Server, MySQL, JavaScript ,Java , React, Next.js e TailwindCSS, desenvolvendo desde interfaces modernas e responsivas até back-ends estruturados e integrações seguras, sempre buscando boas práticas e organização no código
+
 
 ---
 
